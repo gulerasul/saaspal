@@ -1,0 +1,11 @@
+*{
+   margin: 0;
+   padding: 0; 
+   
+}
+body{
+    background-image: url(https://preview.uideck.com/items/saaspal/assets/img/hero/hero-bg.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
